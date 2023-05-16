@@ -1,5 +1,15 @@
 
 
+## [1.4.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.3.0...1.4.0) (2023-05-16)
+
+
+### Features
+
+* add clg ([5f31c10](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/5f31c109114bf0dd452b0c96ec5b240ea4fdc6c4))
+* config branch release ([3d9a692](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/3d9a692d503f7e180fb12aa249373479a52f2177))
+* edit ([222e0fb](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/222e0fbf7d936bf9b65e179d15a10d596e1e450c))
+* edit ([572d499](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/572d49944e34413d4d10e0b0df30878322c8615c))
+
 ## [1.3.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.2.1...1.3.0) (2023-05-16)
 
 
