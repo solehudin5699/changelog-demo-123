@@ -1,5 +1,12 @@
 
 
+## [1.5.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.4.0...1.5.0) (2023-05-16)
+
+
+### Features
+
+* edit ([e952e68](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/e952e687775394fcca6b6612d123104015ab458a))
+
 ## [1.4.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.3.0...1.4.0) (2023-05-16)
 
 
