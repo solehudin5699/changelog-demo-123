@@ -1,5 +1,12 @@
 
 
+## [1.3.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.2.1...1.3.0) (2023-05-16)
+
+
+### Features
+
+* test aja ([449b8de](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/449b8de4d541004954d5dbe704dfe97fbc2dbebc))
+
 ## [1.2.1](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.2.0...1.2.1) (2022-07-08)
 
 
