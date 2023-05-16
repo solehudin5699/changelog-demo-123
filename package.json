@@ -26,7 +26,8 @@
   },
   "release-it": {
     "git": {
-      "commitMessage": "chore: release v${version}"
+      "commitMessage": "chore: release v${version}",
+      "requireBranch": "master"
     },
     "github": {
       "release": true
