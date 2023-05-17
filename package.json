@@ -1,6 +1,6 @@
 {
   "name": "changelog",
-  "version": "1.5.1",
+  "version": "1.5.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -38,8 +38,21 @@
     },
     "plugins": {
       "@release-it/conventional-changelog": {
-        "preset": "angular",
-        "infile": "CHANGELOG.md"
+        "infile": "CHANGELOG.md",
+        "preset": {
+          "name": "conventionalcommits",
+          "types": [
+            {
+              "type": "feat",
+              "section": "Features"
+            },
+            {
+              "type": "fix",
+              "section": "Bug Fixes"
+            },
+            {}
+          ]
+        }
       }
     }
   },
