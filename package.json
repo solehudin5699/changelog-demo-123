@@ -30,6 +30,12 @@
       "tagName": "v${version}",
       "requireBranch": "master"
     },
+    "github": {
+      "release": true
+    },
+    "gitlab": {
+      "release": true
+    },
     "npm": {
       "publish": false
     },
