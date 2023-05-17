@@ -1,5 +1,12 @@
 
 
+## [1.5.4](https://github.com/solehudin5699/changelog-demo-123/compare/v1.5.2...v1.5.4) (2023-05-17)
+
+
+### Features
+
+* update ([eaf6f75](https://github.com/solehudin5699/changelog-demo-123/commit/eaf6f759854d2c0c21b05bbcf82048ed65c60c34))
+
 ## [1.5.3](https://github.com/solehudin5699/changelog-demo-123/compare/v1.5.2...v1.5.3) (2023-05-17)
 
 
