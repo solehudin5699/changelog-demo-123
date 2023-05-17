@@ -1,5 +1,10 @@
 
 
+* test: update (481e0d3)
+* chore: update (5e9c760)
+* bug: update (ba23fa5)
+* feat(clg): update (344813d)
+
 ## [1.5.1](https://github.com/solehudin5699/changelog-demo-123/compare/v1.5.0...v1.5.1) (2023-05-17)
 
 ## [1.5.0](https://github.com/solehudin5699/changelog-demo-123/compare/1.4.0...v1.5.0) (2023-05-17)
