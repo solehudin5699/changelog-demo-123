@@ -30,6 +30,9 @@
       "tagName": "v${version}",
       "requireBranch": "master"
     },
+    "npm": {
+      "publish": false
+    },
     "plugins": {
       "@release-it/conventional-changelog": {
         "infile": "CHANGELOG.md",
