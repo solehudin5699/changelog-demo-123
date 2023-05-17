@@ -7,6 +7,13 @@
 
 * edit ([e952e68](https://github.com/solehudin5699/changelog-demo-123/commit/e952e687775394fcca6b6612d123104015ab458a))
 
+## [1.5.0](https://github.com/solehudin5699/changelog-demo-123/compare/1.4.0...v1.5.0) (2023-05-17)
+
+
+### Features
+
+* edit ([e952e68](https://github.com/solehudin5699/changelog-demo-123/commit/e952e687775394fcca6b6612d123104015ab458a))
+
 ## [1.4.0](https://github.com/solehudin5699/changelog-demo-123/compare/1.3.0...1.4.0) (2023-05-16)
 
 
