@@ -21,19 +21,14 @@
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-conventional": "^17.0.3",
     "@release-it/conventional-changelog": "^5.0.0",
-    "husky": "^8.0.1",
-    "release-it": "^15.1.1"
+    "husky": "^8.0.1"
   },
   "release-it": {
     "git": {
-      "commitMessage": "chore: release v${version}",
-      "requireUpstream": false
-    },
-    "github": {
-      "release": true
-    },
-    "npm": {
-      "publish": false
+      "commitMessage": "release: release v${version}",
+      "requireUpstream": false,
+      "tagName": "v${version}",
+      "requireBranch": "master"
     },
     "plugins": {
       "@release-it/conventional-changelog": {
@@ -54,5 +49,8 @@
         }
       }
     }
+  },
+  "devDependencies": {
+    "release-it": "^15.10.3"
   }
 }
