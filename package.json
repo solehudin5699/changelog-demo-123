@@ -33,9 +33,6 @@
     "github": {
       "release": true
     },
-    "gitlab": {
-      "release": true
-    },
     "npm": {
       "publish": false
     },
