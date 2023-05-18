@@ -1,3 +1,4 @@
 export class SomeOtherNewFeature {
-  someMissingThing = "a";
+  someMissingThing = 'a';
 }
+export const a = 'a';
