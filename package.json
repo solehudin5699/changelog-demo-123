@@ -34,7 +34,7 @@
       "release": false
     },
     "gitlab": {
-      "release": true
+      "release": false
     },
     "npm": {
       "publish": false
