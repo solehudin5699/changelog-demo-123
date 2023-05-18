@@ -1,5 +1,25 @@
 
 
+## [1.6.0](https://gitlab.com/solehudin5699/changelog-demo/compare/v1.5.4...v1.6.0) (2023-05-18)
+
+
+### Features
+
+* add a ([03364d2](https://gitlab.com/solehudin5699/changelog-demo/commit/03364d21301b9de1359b0e2e2aa019f6a87bf1f7))
+* add b ([b2c2f7c](https://gitlab.com/solehudin5699/changelog-demo/commit/b2c2f7ce81c0b3b6882996e24ab4ba48d8d8cfef))
+* add c ([1d8a722](https://gitlab.com/solehudin5699/changelog-demo/commit/1d8a7229dfb47ed13c58f7b623c19284796dd6c4))
+* add func generator ([d0547cf](https://gitlab.com/solehudin5699/changelog-demo/commit/d0547cfe516ddf723b8730ecc72b0f5a97000044))
+* add x ([609e2b0](https://gitlab.com/solehudin5699/changelog-demo/commit/609e2b0444ec40b78aabd28eeb9a0c02bb6ac34c))
+* add y ([d936461](https://gitlab.com/solehudin5699/changelog-demo/commit/d936461a711e7b672f1a015733834eabcda67657))
+* add z ([2e23516](https://gitlab.com/solehudin5699/changelog-demo/commit/2e235164376aba773625327b5f5a9b5fc8b67483))
+
+
+### Bug Fixes
+
+* update ([f3f9526](https://gitlab.com/solehudin5699/changelog-demo/commit/f3f9526758e2d96f19a802076211c91e94b5af69))
+* update-2 ([ce69566](https://gitlab.com/solehudin5699/changelog-demo/commit/ce69566b0257e98b94c207da2dd6b5e63858800b))
+* update-3 ([42c887f](https://gitlab.com/solehudin5699/changelog-demo/commit/42c887f5c4f3f7785bca4cbd599f64469004d07b))
+
 ## [1.5.4](https://github.com/solehudin5699/changelog-demo-123/compare/v1.5.2...v1.5.4) (2023-05-17)
 
 
