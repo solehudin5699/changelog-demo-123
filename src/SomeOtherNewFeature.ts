@@ -1,3 +1,3 @@
 export class SomeOtherNewFeature {
-  someMissingThing = "a";
+  someMissingThing = 'a';
 }
