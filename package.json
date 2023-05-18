@@ -31,7 +31,7 @@
       "requireBranch": "master"
     },
     "github": {
-      "release": true
+      "release": false
     },
     "gitlab": {
       "release": true
